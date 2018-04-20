@@ -1,0 +1,1 @@
+Ocurriría un error, ya que las matrices no pueden ser retornadas en una funcion, solamente punteros de matrices.
